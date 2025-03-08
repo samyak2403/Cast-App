@@ -1,9 +1,5 @@
-Initial release of Cast-App
-
-Features included in this first version:
-- Media casting to Chromecast devices
-- Support for DLNA/UPnP compatible receivers
-- Video, audio, and image streaming
-- Basic media library organization
-- Simple and intuitive user interface
-- Customizable playback controls 
+Initial release of Cast App:
+- Basic casting functionality
+- Media browser
+- Playback controls
+- Support for common media formats 

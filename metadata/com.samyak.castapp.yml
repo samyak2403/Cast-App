@@ -1,18 +1,16 @@
 Categories:
-  - Development
   - Multimedia
-License: MIT
-AuthorName: Samyak Kamble
-AuthorEmail: samyakkamble6659@gmail.com
-WebSite: https://github.com/samyak2403
-SourceCode: https://github.com/samyak2403/Cast-App
-IssueTracker: https://github.com/samyak2403/Cast-App/issues
-Changelog: https://github.com/samyak2403/Cast-App/releases
+  - Connectivity
+License: GPL-3.0-or-later
+AuthorName: Samyak
+SourceCode: https://github.com/samyak/castapp
+IssueTracker: https://github.com/samyak/castapp/issues
+Changelog: https://github.com/samyak/castapp/releases
 
-AutoName: Cast-App
+AutoName: Cast App
 
 RepoType: git
-Repo: https://github.com/samyak2403/Cast-App.git
+Repo: https://github.com/samyak/castapp.git
 
 Builds:
   - versionName: '1.0'
@@ -21,24 +19,24 @@ Builds:
     subdir: app
     gradle:
       - yes
-
+    
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
 CurrentVersion: '1.0'
 CurrentVersionCode: 1
 
+Summary: Stream content to Chromecast and Smart TVs
 Description: |
-  Cast-App is a versatile media casting application that allows you to easily stream content from your Android device to various casting-enabled devices like Chromecast, smart TVs, and other DLNA/UPnP compatible receivers.
-
-  Features included in this first version:
-  - Media casting to Chromecast devices
-  - Support for DLNA/UPnP compatible receivers
-  - Video, audio, and image streaming
-  - Basic media library organization
-  - Simple and intuitive user interface
-  - Customizable playback controls
-
-  Cast-App is open-source software, developed to provide a free and privacy-respecting alternative to proprietary casting solutions.
+  Cast App allows you to easily stream content from your Android device to 
+  Chromecast, Smart TVs, and other casting-enabled devices.
+  
+  Features:
+  * Stream local media files (videos, photos, music)
+  * Cast web content
+  * Support for multiple casting protocols
+  * Simple, intuitive interface
+  * No ads or tracking
+  * Completely open source
 
 MaintainerNotes: |
   Initial submission of Cast-App. 

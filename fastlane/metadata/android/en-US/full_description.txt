@@ -10,3 +10,5 @@ Features include:
 Cast-App is open-source software, developed to provide a free and privacy-respecting alternative to proprietary casting solutions.
 
 You can include multiple paragraphs and format the text with blank lines between paragraphs. 
+
+[Your app's full description here - can be multiple paragraphs] 
