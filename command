@@ -41,19 +41,18 @@ cd ..
 git clone https://gitlab.com/fdroid/fdroiddata.git
 cd fdroiddata
 
-# Create a new branch for your app
+# Create a new branch for your submission
 git checkout -b add-castapp
 
 # Copy your metadata file to the repository
-copy ..\metadata\com.samyak.castapp.yml metadata\
+cp /path/to/your/metadata/com.samyak.castapp.yml metadata/
 
 # Commit your changes
-git add metadata\com.samyak.castapp.yml
+git add metadata/com.samyak.castapp.yml
 git commit -m "Add Cast App"
 
-# Push to your fork (you'll need to create a GitLab account and fork the repository first)
-git remote add myfork https://gitlab.com/YOUR_USERNAME/fdroiddata.git
-git push -u myfork add-castapp
+# Push to your fork (assuming you've already forked the repository on GitLab)
+git push -u origin add-castapp
 
 # Install Docker Desktop for Windows from https://www.docker.com/products/docker-desktop
 

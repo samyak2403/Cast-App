@@ -1,42 +1,41 @@
 Categories:
   - Multimedia
-  - Connectivity
+  - Internet
 License: GPL-3.0-or-later
-AuthorName: Samyak
-SourceCode: https://github.com/samyak/castapp
-IssueTracker: https://github.com/samyak/castapp/issues
-Changelog: https://github.com/samyak/castapp/releases
+AuthorName: Samyak Jain
+SourceCode: https://github.com/samyak-jain/castapp
+IssueTracker: https://github.com/samyak-jain/castapp/issues
+Changelog: https://github.com/samyak-jain/castapp/releases
 
 AutoName: Cast App
 
 RepoType: git
-Repo: https://github.com/samyak/castapp.git
+Repo: https://github.com/samyak-jain/castapp.git
 
 Builds:
-  - versionName: '1.0'
+  - versionName: "1.0.0"
     versionCode: 1
-    commit: v1.0
+    commit: v1.0.0
     subdir: app
     gradle:
       - yes
     
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: '1.0'
+CurrentVersion: "1.0.0"
 CurrentVersionCode: 1
 
-Summary: Stream content to Chromecast and Smart TVs
+Summary: A simple and open-source casting application
 Description: |
-  Cast App allows you to easily stream content from your Android device to 
-  Chromecast, Smart TVs, and other casting-enabled devices.
+  Cast App is an open-source application that allows you to cast media from your 
+  Android device to various casting devices like Chromecast, smart TVs, and other 
+  DLNA/UPnP compatible devices.
   
   Features:
-  * Stream local media files (videos, photos, music)
-  * Cast web content
-  * Support for multiple casting protocols
-  * Simple, intuitive interface
+  * Cast local media files to your TV
+  * Support for various media formats
+  * Simple and intuitive interface
   * No ads or tracking
-  * Completely open source
 
 MaintainerNotes: |
   Initial submission of Cast-App. 
