@@ -1,0 +1,23 @@
+Categories:
+  - Development
+  - Multimedia
+License: MIT
+AuthorName: Samyak Kamble
+AuthorEmail: samyakkamble6659@gmail.com
+WebSite: https://github.com/samyak2403
+SourceCode: https://github.com/samyak2403/Cast-App
+IssueTracker: https://github.com/samyak2403/Cast-App/issues
+Changelog: https://github.com/samyak2403/Cast-App/releases
+
+AutoName: Cast-App
+
+RepoType: git
+Repo: https://github.com/samyak2403/Cast-App.git
+
+Builds:
+  - versionName: '1.0'
+    versionCode: 1
+    commit: v1.0
+    subdir: app
+    gradle:
+      - yes 

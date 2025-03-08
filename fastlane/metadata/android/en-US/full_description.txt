@@ -1,0 +1,12 @@
+Cast-App is a versatile media casting application that allows you to easily stream content from your Android device to various casting-enabled devices like Chromecast, smart TVs, and other DLNA/UPnP compatible receivers.
+
+Features include:
+- Simple and intuitive user interface
+- Support for multiple casting protocols
+- Media library organization
+- Video, audio, and image casting capabilities
+- Customizable playback controls
+
+Cast-App is open-source software, developed to provide a free and privacy-respecting alternative to proprietary casting solutions.
+
+You can include multiple paragraphs and format the text with blank lines between paragraphs. 
