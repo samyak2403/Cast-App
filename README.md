@@ -20,9 +20,9 @@ Cast-App is a versatile media casting application that allows you to easily stre
 ## Screenshots
 
 <p align="center">
-  <img src="images/1.png" width="250px" alt="Screenshot 1">
-  <img src="images/2.png" width="250px" alt="Screenshot 2">
-  <img src="images/3.png" width="250px" alt="Screenshot 3">
+  <img src="Screenshot/1.png" width="250px" alt="Screenshot 1">
+  <img src="Screenshot/2.png" width="250px" alt="Screenshot 2">
+  <img src="images/1.png" width="250px" alt="Screenshot 3">
 </p>
 
 ## Installation
